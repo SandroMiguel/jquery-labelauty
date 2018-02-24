@@ -46,6 +46,8 @@ input.labelauty + label
 	-khtml-user-select: none;
 	-webkit-user-select: none;
 	-o-user-select: none;
+
+    line-height: 1;
 }
 
 /* Stylish text inside label */
