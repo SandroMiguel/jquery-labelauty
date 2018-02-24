@@ -12,27 +12,6 @@ radio buttons and allows custom labels for each status of (un)checked inputs.
 
 __Note:__ Labelauty does not support Internet Explorer 7 and 8.
 
-Installation
-------------
-
-Install with Bower :
-
-~~~
-bower install labelauty --save
-~~~
-
-Install with NPM :
-
-~~~
-npm install labelauty --save
-~~~
-
-Install with Yarn :
-
-~~~
-yarn add labelauty
-~~~
-
 
 Fast Usage
 -----------
