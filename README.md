@@ -1,6 +1,6 @@
-># **This repository is no longer mantained.**
+># **This repository is no longer mantained by the original author.**
 >
-> I recommend you to use reactive and modern JavaScript frameworks, such as VueJS and React.
+> I still use this plugin in some of my projects, so I'll update this repo whenever it's needed.
 
 Labelauty jQuery Plugin
 =========
