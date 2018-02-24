@@ -1,3 +1,7 @@
+># **This repository is no longer mantained.**
+>
+> I recommend you to use reactive and modern JavaScript frameworks, such as VueJS and React.
+
 Labelauty jQuery Plugin
 =========
 
@@ -10,8 +14,23 @@ __Note:__ Labelauty does not support Internet Explorer 7 and 8.
 
 Installation
 ------------
+
+Install with Bower :
+
 ~~~
-bower install labelauty
+bower install labelauty --save
+~~~
+
+Install with NPM :
+
+~~~
+npm install labelauty --save
+~~~
+
+Install with Yarn :
+
+~~~
+yarn add labelauty
 ~~~
 
 
